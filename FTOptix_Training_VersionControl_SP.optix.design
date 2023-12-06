@@ -1,0 +1,18 @@
+Project:
+ Name: FTOptix_Training_VersionControl_SP_Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.2
+ CoreVersion: 2.0
+ Dependencies:
+  2:
+   Uri: FTOptix_Training_VersionControl_SP
+   RelativePath: FTOptix_Training_VersionControl_SP.optix
+  3:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 2.1
+ Nodes: []
